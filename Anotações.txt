@@ -1,0 +1,20 @@
+### Interface Moderna - React Native - Expo ###
+
+-> Expo init 
+(para criar o projeto)
+
+-> Instalar Styled Component
+-> Instalar Types Style Component
+-> Instalar Expo Fonts
+-> Instalar Responsive FontSize - Lib
+
+-> Configurar tokens de cores e fontes
+
+-> Dica: no mobile o importante é a largura dos elementos. colocar sempre em %
+-> Dica para animação: https://github.com/oblador/react-native-animatable
+-> Dica para transição: https://github.com/IjzerenHein/react-native-shared-element
+-> Dica para transição: https://www.npmjs.com/package/react-navigation-transitions
+
+
+**Ctrl+/+space** 
+(para enxergar tudo que vem (métodos/tools) com o pacote instalado)
